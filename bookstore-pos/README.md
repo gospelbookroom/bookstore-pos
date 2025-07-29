@@ -1,1 +1,2 @@
-# Placeholder for README.md
+# bookstore-pos
+POS Dashboard for my bookstore
