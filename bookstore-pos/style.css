@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.product {
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
